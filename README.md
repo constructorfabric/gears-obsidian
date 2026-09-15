@@ -1,8 +1,8 @@
 # Cyberware Repos for Obsidian
 
-This plugin syncs specifications from GitHub repositories with [Cyber Pilot](https://github.com/cyberfabric/cyber-pilot) enabled to Obsidian and automatically creates links between related specs.
+This plugin syncs specifications from GitHub repositories with [Cyber Pilot](https://github.com/constructorfabric/cyber-pilot) enabled to Obsidian and automatically creates links between related specs.
 
-Cyber Pilot is part of the [Cyberware](https://github.com/cyberfabric) open-source technology stack, designed to complement agentic AI code generators and AI IDEs. It helps teams develop production-ready software faster 
+Cyber Pilot is part of the [Cyberware](https://github.com/constructorfabric) open-source technology stack, designed to complement agentic AI code generators and AI IDEs. It helps teams develop production-ready software faster 
 
 ## Setup
 
